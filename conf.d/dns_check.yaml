@@ -1,0 +1,7 @@
+init_config:
+    default_timeout: 4
+
+instances:
+    - hostname: www.google.com
+      nameserver: 8.8.8.8
+      timeout: 8
